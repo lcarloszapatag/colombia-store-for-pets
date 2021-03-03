@@ -17,4 +17,6 @@ Integración con pasarelas de pago de Colombia
 
 Manero de Logística De transporte con empresas de Colombia
 
+ ## [1.Requerimientos No funcionales  ](https://github.com/lcarloszapatag/colombia-store-for-pets/wiki/Requerimientos-No-funcionales)
+
 
