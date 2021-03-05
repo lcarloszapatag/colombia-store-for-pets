@@ -1,5 +1,3 @@
-![](https://github.com/lcarloszapatag/colombia-store-for-pets/blob/main/colombia%20for%20pets%20portada.png?raw=true)
-
 Welcome to the colombia-store-for-pets !
 
 ![](https://github.com/lcarloszapatag/colombia-store-for-pets/blob/main/colombia%20for%20pets%20portada.png?raw=true)
