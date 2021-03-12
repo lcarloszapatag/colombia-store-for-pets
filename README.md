@@ -13,7 +13,7 @@ Welcome to the colombia-store-for-pets !
 
 ## [3.Requerimientos Funcionales](https://github.com/lcarloszapatag/colombia-store-for-pets/wiki/Requerimientos-Funcionales)
 
-## [4.Funcionalidades Back-front office de la tienda](https://github.com/lcarloszapatag/colombia-store-for-pets/wiki/Funcionalidades)
+ ## [4.Funcionalidades Front-office y  Back-front office de la tienda](https://github.com/lcarloszapatag/colombia-store-for-pets/wiki/Funcionalidades)
 
 ## [5. Video del Proyecto](https://github.com/lcarloszapatag/colombia-store-for-pets/wiki/Presentaci%C3%B3n-video-Proyecto)
 
